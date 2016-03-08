@@ -1,4 +1,19 @@
-analytics: {}
+name: Nussbaum
+favicon: null
+layout_spectrum: 0.6127940909937024
+typography_spectrum: 0.7621979855466634
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C8C8'
@@ -6,13 +21,8 @@ color:
     - '#5878A8'
     - '#B0A050'
     - '#000000'
-  brandStrength: 0.7011124873533845
-  lightness: 0.6108980814460665
-  rhythmicContrast: 0.6695656774099916
-  saturation: 0.9084224440157413
-cta: {}
-layout_spectrum: 0.6127940909937024
-name: Nussbaum
-opengraph: {}
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
-typography_spectrum: 0.7621979855466634
