@@ -1,6 +1,6 @@
 name: Nussbaum
-layout_spectrum: 0.6127940909937024
-typography_spectrum: 0.7621979855466634
+layout_spectrum: 0.29774430324323475
+typography_spectrum: 0.16703228931874037
 cta: {}
 analytics: {}
 opengraph:
@@ -8,15 +8,15 @@ opengraph:
   appId: ''
 color:
   brandColors:
-    - '#C0C8C8'
-    - '#5B5329'
-    - '#5878A8'
-    - '#B0A050'
-    - '#000000'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.5012855436652899
+  lightness: 0.15568603877909482
+  saturation: 0.14612851128913462
+  rhythmicContrast: 0.5533338524401188
 purpose: []
 title: Explore With Me
 author:
@@ -25,3 +25,5 @@ author:
   email: ''
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
